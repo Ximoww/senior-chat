@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/senior-chat/static/css/main.34a807d4.css",
-    "main.js": "/senior-chat/static/js/main.b0b5827d.js",
+    "main.css": "/senior-chat/static/css/main.6f1c87ab.css",
+    "main.js": "/senior-chat/static/js/main.ffafbd49.js",
     "index.html": "/senior-chat/index.html",
-    "main.34a807d4.css.map": "/senior-chat/static/css/main.34a807d4.css.map",
-    "main.b0b5827d.js.map": "/senior-chat/static/js/main.b0b5827d.js.map"
+    "main.6f1c87ab.css.map": "/senior-chat/static/css/main.6f1c87ab.css.map",
+    "main.ffafbd49.js.map": "/senior-chat/static/js/main.ffafbd49.js.map"
   },
   "entrypoints": [
-    "static/css/main.34a807d4.css",
-    "static/js/main.b0b5827d.js"
+    "static/css/main.6f1c87ab.css",
+    "static/js/main.ffafbd49.js"
   ]
 }
