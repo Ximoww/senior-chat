@@ -12,27 +12,25 @@ body {
 .navigation {
     width: 25%;
     height: 100%;
-    background-color: black;
+    background-color: salmon;
     display: flex;
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
+    
 }
 
 .profile {
     width: 150px;
     height: 150px;
-    background-color: red;
 }
 
 .messagerie {
     width: 150px;
     height: 150px;
-    background-color: red;
 }
 
 .amis {
     width: 150px;
     height: 150px;
-    background-color: red;
 }
