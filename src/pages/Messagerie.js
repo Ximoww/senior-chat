@@ -1,15 +1,13 @@
 import React from "react";
 import InfoBar from "../components/InfoBar";
 import Navigation from "../components/Navigation";
-import "../styles/navigation.css";
-
-const Home = () => {
+const Messagerie = () => {
   return (
-    <div className="home">
-      <InfoBar />
+    <div>
       <Navigation />
+      <InfoBar />
     </div>
   );
 };
 
-export default Home;
+export default Messagerie;
