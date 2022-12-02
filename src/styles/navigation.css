@@ -1,18 +1,20 @@
 body {
     margin: 0px;
     padding: 0px;
+    background-color: #e6e3dc;
 }
 
 .nav {
     width: 300px;
-    height: 948px;
+    height: 917px;
     width: 25%;
 }
 
 .navigation {
     width: 75%;
     height: 100%;
-    background-color: salmon;
+    background: rgb(48,196,177);
+    background: linear-gradient(90deg, rgba(48,196,177,1) 0%, rgba(6,194,232,1) 100%);
     display: flex;
     justify-content: space-around;
     align-items: center;
