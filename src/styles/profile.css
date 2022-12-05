@@ -1,0 +1,47 @@
+.info {
+    padding: 150px;
+    padding-top: 10px;
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+.name {
+    font-size: 75px;
+}
+
+.pdp {
+    margin-left: 225px;
+    border-radius: 300px;
+    margin-top: 20px;
+}
+
+.info-stat {
+    display: flex;
+    justify-content: space-around;
+    height: 20px;
+    margin-top: 25px;
+}
+
+.fake-img {
+    height: 400px;
+    width: 750px;
+}
+
+.historique-p {
+    margin-top: 50px;
+}
+
+.fake-post {
+    margin-top: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.description {
+    font-size: 25px;
+}
