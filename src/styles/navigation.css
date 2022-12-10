@@ -10,6 +10,7 @@ body {
     height: 917px;
     width: 25%;
     overflow:hidden;
+    position: fixed;
 }
 
 .navigation {

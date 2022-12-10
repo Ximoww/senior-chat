@@ -1,0 +1,55 @@
+.msg1 {
+    width: 400px;
+    height: 100px;
+    background-color: rgb(37, 33, 33);
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+.msg2 {
+    top: 600px;
+    left: 400px;
+    width: 400px;
+    height: 100px;
+    background-color: rgb(37, 33, 33);
+    position: absolute;
+}
+.msg3 {
+    top: 400px;
+    right: 150px;
+    width: 400px;
+    height: 100px;
+    background-color: rgb(37, 33, 33);
+    position: absolute;
+}
+
+p {
+    color: #c0aeae;
+   margin: 10px;
+   font-size: 20px;
+}
+
+.pdp1 {
+    top: 210px;
+    left: 300px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.pdp2 {
+    position: absolute;
+    right: 95px;
+    top: 410px;
+    width: 50px;
+}
+
+.pdp3 {
+    top: 610px;
+    left: 300px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
