@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/senior-chat/static/css/main.25459a3f.css",
-    "main.js": "/senior-chat/static/js/main.fd7c46bf.js",
+    "main.css": "/senior-chat/static/css/main.706dd547.css",
+    "main.js": "/senior-chat/static/js/main.02d14fbd.js",
     "static/media/fake-img.png": "/senior-chat/static/media/fake-img.4b2411553d56ef9a407b.png",
+    "static/media/repas-famille.png": "/senior-chat/static/media/repas-famille.c65b2f705ece498828c6.png",
     "static/media/pdp1.png": "/senior-chat/static/media/pdp1.6623a3843a99a2e9f860.png",
     "static/media/pdp2.png": "/senior-chat/static/media/pdp2.c4af62cf27b65acdc217.png",
     "static/media/profile.png": "/senior-chat/static/media/profile.8b984657677b2e6fab9f.png",
     "index.html": "/senior-chat/index.html",
-    "main.25459a3f.css.map": "/senior-chat/static/css/main.25459a3f.css.map",
-    "main.fd7c46bf.js.map": "/senior-chat/static/js/main.fd7c46bf.js.map"
+    "main.706dd547.css.map": "/senior-chat/static/css/main.706dd547.css.map",
+    "main.02d14fbd.js.map": "/senior-chat/static/js/main.02d14fbd.js.map"
   },
   "entrypoints": [
-    "static/css/main.25459a3f.css",
-    "static/js/main.fd7c46bf.js"
+    "static/css/main.706dd547.css",
+    "static/js/main.02d14fbd.js"
   ]
 }
