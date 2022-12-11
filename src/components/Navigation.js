@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/navigation.css";
 import profile from "../styles/assets/profile.png";
-import amis from "../styles/assets/friend.png";
+import amis from "../styles/assets/home.png";
 import messagerie from "../styles/assets/messagerie.png";
 import { NavLink } from "react-router-dom";
 
@@ -21,7 +21,7 @@ const Navigation = () => {
           </NavLink>
         </div>
         <div className="container">
-          <NavLink to="/senior-chat/amis">
+          <NavLink to="/senior-chat/">
             <img src={amis} alt="" className="amis" />
           </NavLink>
         </div>

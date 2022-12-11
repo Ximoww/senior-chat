@@ -23,7 +23,7 @@
     position: absolute;
 }
 
-p {
+.msg p {
     color: #c0aeae;
    margin: 10px;
    font-size: 20px;
